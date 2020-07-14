@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on NodeJS, MeteorJS.
 - 🌱 I’m currently learning Deno, React, Python and Docker.
-- 📫 You could reach me at anands8196@gmail.com
+- 📫 You could reach me at anands8196@gmail.com or https://www.linkedin.com/in/anands8196/
 <!--
 **anands8196/anands8196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
