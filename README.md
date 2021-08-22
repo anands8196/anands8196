@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on NodeJS, MeteorJS.
+- 🔭 I’m currently working on NodeJS, ReactJS, Sequelize ORM, MySQL, Python.
 - 🌱 I’m currently learning Deno, React, Blockchain, Python, AWS and Docker.
 - 📫 You could reach me at anands8196@gmail.com or https://www.linkedin.com/in/anands8196/ or https://twitter.com/anands8196 or https://anands.netlify.app/
 
