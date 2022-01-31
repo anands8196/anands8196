@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8217
-Fork on GitHub
-1760
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Anand S</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
@@ -27,14 +11,11 @@ preview
 
 - 📫 How to reach me **anands8196@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anands8196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anands8196" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anands8196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anands8196" height="30" width="40" /></a>
+<a href="https://instagram.com/dev._anand.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev._anand.s" height="30" width="40" /></a>
 <a href="https://medium.com/@anands8196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anands8196" height="30" width="40" /></a>
 </p>
 
@@ -46,11 +27,6 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anands8196&show_icons=true&locale=en" alt="anands8196" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anands8196&" alt="anands8196" /></p>
-
-
-
-
-
 
 ### Hi there 👋
 - 🔭 I’m currently working on NodeJS, ReactJS, Sequelize ORM, MySQL, Python.
