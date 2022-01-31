@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://twitter.com/anands8196" target="blank"><img src="https://img.shields.io/twitter/follow/anands8196?logo=twitter&style=for-the-badge" alt="anands8196" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain, Solidity, Deno**
+-  🔭 I’m currently working on **NodeJS, ReactJS, Sequelize ORM, MySQL, Python**.
+
 
 - 👨‍💻 All of my details are available at [https://anands.netlify.app/](https://anands.netlify.app/)
 
@@ -27,12 +29,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anands8196&show_icons=true&locale=en" alt="anands8196" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anands8196&" alt="anands8196" /></p>
-
+<!-- 
 ### Hi there 👋
 - 🔭 I’m currently working on NodeJS, ReactJS, Sequelize ORM, MySQL, Python.
 - 🌱 I’m currently learning Deno, React, Blockchain, Python, AWS and Docker.
 - 📫 You could reach me at anands8196@gmail.com or https://www.linkedin.com/in/anands8196/ or https://twitter.com/anands8196 or https://anands.netlify.app/
-
+ -->
 
 <!-- **anands8196/anands8196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ![anands8196's GitHub stats](https://github-readme-stats.vercel.app/api?username=anands8196&show_icons=true&theme=radical)
