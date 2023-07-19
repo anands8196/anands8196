@@ -7,12 +7,8 @@
 
 - 🌱 I’m currently learning **Blockchain, Solidity, Deno**
 -  🔭 I’m currently working on **NodeJS, ReactJS, Sequelize ORM, MySQL, Python**.
-
-
 - 👨‍💻 All of my details are available at [https://anands.netlify.app/](https://anands.netlify.app/)
-
-- - 👨‍💻 LearnWeb3 [https://learnweb3.io/u/anands8196/](https://learnweb3.io/u/anands8196/)
-
+- 👨‍💻 LearnWeb3 [https://learnweb3.io/u/anands8196/](https://learnweb3.io/u/anands8196/)
 - 📫 How to reach me **anands8196@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
