@@ -11,6 +11,7 @@
 - 👨‍💻 LearnWeb3 [https://learnweb3.io/u/anands8196/](https://learnweb3.io/u/anands8196/)
 - 📫 How to reach me **anands8196@gmail.com**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anands8196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anands8196" height="30" width="40" /></a>
